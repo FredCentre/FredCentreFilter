@@ -16,3 +16,8 @@ tikfinity.zerody.one###start-how-to-use-tikfinity
 
 ! === youtube.com ===
 www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(4)
+
+! === app.restream.io ===
+app.restream.io##.tw-rounded-\[calc\(var\(--radius\)-1px\)\].tw-transition-colors.tw-duration-200.tw-ease-in-out.tw-w-full.tw-flex.tw-justify-between.tw-bg-\[\#191333\].hover\:tw-bg-\[\#312564\]
+app.restream.io##.intercom-lightweight-app-launcher-icon.intercom-lightweight-app-launcher-icon-open
+app.restream.io##.intercom-lightweight-app-launcher.intercom-launcher
