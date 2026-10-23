@@ -1,6 +1,6 @@
 ! Title: FredCentre Filter
 ! Description: Block/hide annoying elements to make the interface cleaner (designed for personal use)
-! Last modified: 2026-08-12
+! Last modified: 2026-10-23
 
 ! === fonttiengviet.com ===
 fonttiengviet.com##.design-popup-header
@@ -13,6 +13,9 @@ tikfinity.zerody.one###start-live-channels
 tikfinity.zerody.one##.greyBackgroundSection.proPromoBox.shakeEffect
 tikfinity.zerody.one##.flex.flex-col.gap-4.rounded-\[10px\].border.border-\[\#92223E\].w-\[902px\].mr-\[20px\].font-outfit.text-white
 tikfinity.zerody.one###start-how-to-use-tikfinity
+
+! === app.tikfinity.com ===
+app.tikfinity.com##.pb-4.overscroll-none.overflow-x-visible > div.px-4
 
 ! === youtube.com ===
 www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(4)
